@@ -1,18 +1,10 @@
-# FredrikHaugen Tap
+# fredrikhaugen/tap
 
-## How do I install these formulae?
+Homebrew formulae by Fredrik Haugen.
 
-`brew install fredrikhaugen/tap/<formula>`
-
-Or `brew tap fredrikhaugen/tap` and then `brew install <formula>`.
-
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "fredrikhaugen/tap"
-brew "<formula>"
+```sh
+brew tap fredrikhaugen/tap
+brew install wake
 ```
 
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+- [`wake`](https://github.com/FredrikHaugen/wake): keep your Mac awake with a countdown that fills the terminal
