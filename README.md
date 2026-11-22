@@ -4,6 +4,7 @@ Homebrew formulae by Fredrik Haugen.
 
 ```sh
 brew tap fredrikhaugen/tap
+brew trust --formula fredrikhaugen/tap/wake
 brew install wake
 ```
 
