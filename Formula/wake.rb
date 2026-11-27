@@ -1,8 +1,8 @@
 class Wake < Formula
   desc "Keep your Mac awake with a countdown that fills the terminal"
   homepage "https://github.com/FredrikHaugen/wake"
-  url "https://github.com/FredrikHaugen/wake/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "44d39c6d78ba2e7311400baff47adfd2bac73b33b5194e8c11419a5858db8ee9"
+  url "https://github.com/FredrikHaugen/wake/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "fd0e463dcf143bf6ec97062aeb179e3081519264c5333adb28c3d1b9c1b81314"
   license "MIT"
 
   depends_on :macos
